@@ -1,0 +1,6 @@
+pillow
+numpy
+streamlit 
+pandas
+matplotlib
+mpl_toolkits
